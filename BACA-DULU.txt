@@ -1,0 +1,5 @@
+DR Martin Amdal System v8.0 - repo ini siap deploy Streamlit Community Cloud.
+Deploy: https://share.streamlit.io/ -> New app -> repo ini, branch main, App file: app.py.
+Kunjungan pertama: aplikasi men-seed proyek demo PRJ-2026-001.json (password 123).
+packages.txt = binari graphviz dipasang otomatis oleh Cloud.
+Filesystem Cloud sementara: unduh/backup hasil kerja Anda berkala.
